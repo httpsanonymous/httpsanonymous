@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🧠 TryHackMe Progress
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/httpsayush.png" alt="TryHackMe Badge" width="300"/>
+
